@@ -11,3 +11,9 @@
   Para el desarrollo de la aplicacion utilizaremos el entorno de desarrollo que ofrece XAMPP, usando python con flask para la creacion del front-end y el backend para crear la API, el backend hara las funcionalidades y trabajara con los datos que guardara y pedira de la base de datos hecha con MySQL.
 
   # Autores: Victorio Paskevicius / Santino Hergert
+  Sprint 0:
+      https://docs.google.com/document/d/1_J_y0vv8U5QIiRMVXif0L4dmMcWftANLvtTudVCtog8/edit?tab=t.0
+  Sprint 1:
+      https://docs.google.com/document/d/1QqRv3EhePbhLuGGtfJ47GPn_lQttWEtgE6YN00dKRz4/edit?tab=t.0
+
+  # Autores: Victorio Paskevicius / Santino Hergert
