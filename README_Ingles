@@ -1,0 +1,13 @@
+#productivity-habit-tracker-tesina
+##Description, Fundamentation and objetives
+This project consists of creating a REST API application that helps organize people's activities and routines, aiming to improve their quality of life through productivity and help them feel better. Our main goal is to offer an application with a minimalist and simple interface so that most people can use it easily, without it becoming confusing or hard to understand. In this way, users can organize their daily routines, set goals, and track their progress.
+The idea comes from a context in which many people especially teenagers our age spend most of their time connected to screens, neglecting the tasks and activities they need to do. This often leads to their social, health, and work lives being overlooked or neglected due to the short-term entertainment or attraction provided by social media or technology products in general. Over time, this sedentary lifestyle can cause individuals to feel dissatisfied with themselves for not fulfilling their duties and responsibilities.
+Through the help of productive habits such as reading, exercising, staying hydrated, doing schoolwork, etc., and maintaining a healthy routine, we can help these individuals reverse this situation and achieve their long-term goals. The foundation of this project is based on studies showing that habits, when reinforced through consistent action, tend to solidify more quickly. Therefore, the application not only tracks habits but also provides progress statistics, streaks, and motivation, offering constant feedback to the user so they feel as motivated as possible to keep up with their goals.
+
+##Stack of technologys
+For the planning and organization of the project, we are using applications such as Google Docs to record all the documentation and assignments from Classroom, Lucidchart and MIRO for creating visual interfaces like the mockup and the database diagram. For the development of the application, we will use the development environment provided by XAMPP, using Python with Flask to build both the front-end and the back-end for creating the API. The back-end will handle the functionalities and work with the data that will be stored in and retrieved from the database, which will be built using MySQL.
+
+###Sprint 0: https://docs.google.com/document/d/1_J_y0vv8U5QIiRMVXif0L4dmMcWftANLvtTudVCtog8/edit?tab=t.0 
+###Sprint 1: https://docs.google.com/document/d/1QqRv3EhePbhLuGGtfJ47GPn_lQttWEtgE6YN00dKRz4/edit?tab=t.0
+
+Autores: Victorio Paskevicius / Santino Hergert
